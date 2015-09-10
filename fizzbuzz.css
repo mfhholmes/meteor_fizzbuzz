@@ -1,0 +1,23 @@
+/* CSS declarations go here */
+html {
+  font-family: sans-serif;
+  font-size: 1.5em;
+}
+body{
+  padding:3em;
+}
+input {
+  font-size:1.5em;
+  border:2px grey solid;
+  height:3em;
+  font-weight: bold;
+}
+button {
+  font-size:1.5em;
+  background-color: #7090F0;
+  color:white;
+  padding:1em 3em;
+  margin:0 0.5em;
+  font-weight: bold;
+  border:0;
+}
